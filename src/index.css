@@ -1,0 +1,20 @@
+
+/* Annexes */
+body {
+  background-color: #DDD;
+}
+.Container {
+  max-width: 1024px;
+  padding: 8px;
+  margin: 16px auto;
+  background-color: white;
+}
+.Mockup {
+  max-width: 1024px;
+  padding: 8px;
+  margin: 8px auto;
+  text-align: center;
+  font-size: 16px;
+  color: gray;
+}
+.Mockup a {color: gray;}

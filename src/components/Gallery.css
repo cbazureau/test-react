@@ -1,0 +1,16 @@
+.Gallery {
+    /** TODO **/
+  }
+  .Image, .AddImage {
+    width: 200px;
+    /** TODO **/
+  }
+  
+  @media (min-width: 700px) {
+      .Gallery {
+        /** TODO **/
+      }
+      .Image, .AddImage  {
+        /** TODO **/
+      }
+  }
